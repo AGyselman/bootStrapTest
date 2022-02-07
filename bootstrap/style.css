@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(195,146,204,1) 0%, rgba(128,95,145,1) 0%, rgba(108,80,128,1) 43%, rgba(153,114,167,1) 61%, rgba(59,204,252,1) 99%, rgba(220,165,226,1) 100%, rgba(237,178,241,1) 100%, rgba(237,178,241,1) 100%, rgba(76,56,100,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+#logo{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 10px;
+    top: 4px;
+}
